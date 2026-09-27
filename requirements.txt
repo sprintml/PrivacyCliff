@@ -1,0 +1,13 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+torch>=2.0.0
+requests>=2.25.0
+
+# TabPFN - the target model for the attack
+tabpfn>=2.0.0
+
+# LLM augmentation (optional - for synthetic data generation)
+transformers>=4.30.0
